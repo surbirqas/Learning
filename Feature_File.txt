@@ -1,7 +1,1 @@
-This is the feature file for Feature Branch only.
-
-
-
-Change Added from UI in Mast Branch
-
-Changes added from local repository.
+Added in BR001 file -> webversion
